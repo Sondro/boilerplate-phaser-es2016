@@ -1,5 +1,7 @@
 # boilerplate-phaser-es2016
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/piecioshka/boilerplate-phaser-es2016.svg)](https://greenkeeper.io/)
+
 > :fork_and_knife: Example game based on [Phaser.js](http://phaser.io). Use 
 ECMAScript 2016 syntax.
 
